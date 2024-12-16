@@ -70,7 +70,7 @@ brio_track_plug_txt = "B";
 
 // Track Nest Brio (do not change)
 brio_track_nest_radius = 6.4;      // 6.4
-brio_track_nest_neck_width = 6.3;  // 6.3
+brio_track_nest_neck_width = 7.3;  // 6.3 brio default, 7.3 to allow compatibility with bigjigs track connectors
 brio_track_nest_neck_length = 12;  // 12
 brio_track_nest_txt = "B";
 
